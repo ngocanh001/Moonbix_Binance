@@ -3,7 +3,6 @@ auto airdrop moonbix binance
 # Download here
 
 https://drive.google.com/file/d/1MuL1nY6KVs_8Tu96twqjjRKvX0bdXMro/view?usp=sharing
-
 +auto play game
 +auto task
 
